@@ -41,8 +41,8 @@ NODE_ENV = "production"
 
 [[env.production.d1_databases]]
 binding = "DB"
-database_name = "ssssktv"
-database_id = "97ce1087-ffab-4c72-8127-23df021601e6"
+database_name = "sskjtv"
+database_id = "51f62f81-3e08-48cb-8035-187cada1e424"
 
 [build]
 command = "pnpm pages:build"
